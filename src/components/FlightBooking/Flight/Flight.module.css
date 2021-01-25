@@ -1,0 +1,16 @@
+.Flight {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin: 5px 0;
+}
+
+.Flight div {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.Flight h5 {
+  margin: 0;
+  /* background-color: yellow; */
+}
